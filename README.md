@@ -15,6 +15,7 @@ Este é um projeto que contém scripts de terraform criados para orquestrar um a
  1. Acesse sua instância de terraform já pré-configurada;
  2. Altere o arquivo createDB.tf conforme a sua necessidade;
  3. Execute o arquivo createDB.tf;
+ 
 *Documentação de Referência: https://www.terraform.io/docs/providers/oci/r/database_autonomous_database.html*
  
  
