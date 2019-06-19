@@ -11,7 +11,7 @@ Este é um projeto que contém scripts de terraform criados para orquestrar um a
  *Documentação de Referência: https://www.terraform.io/docs/providers/oci/index.html*
  
 ## Criação de instância de Autonomous Data Warahouse
-*Este processo é executado no video:*
+*Este processo é executado no video: https://otube.oracle.com/media/Como+criar+um+inst%C3%A2ncia+de+Autonomous+usando+Terraform/0_hyuu7fj4/120394132*
  1. Acesse sua instância de terraform já pré-configurada;
  2. Altere o arquivo createDB.tf conforme a sua necessidade;
  3. Execute o arquivo createDB.tf;
